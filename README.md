@@ -5,6 +5,8 @@
 [![Gradio](https://img.shields.io/badge/Gradio-4.44.0+-orange.svg)](https://gradio.app/)
 [![Google Gemini](https://img.shields.io/badge/Google-Gemini%202.5%20Flash-red.svg)](https://ai.google.dev/)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FF7C00?style=flat&logo=huggingface)](https://huggingface.co/spaces/StreetCoder02/StyleMe-AI)
+
 A modern Gradio web application that leverages **Google Gemini AI** to generate personalized clothing recommendations based on user profile data. The app analyzes body shape, height, gender, and clothing size to provide actionable styling advice with outfit suggestions, fit tips, color guidance, and quick styling tricks.
 
 ---
