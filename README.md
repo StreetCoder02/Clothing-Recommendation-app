@@ -309,17 +309,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👨‍💼 Resume Bullet Points
-
-**Built & deployed a Gemini-powered fashion recommendation web app that:**
-- Generates personalized outfit, fit, and color guidance based on body shape, height, and size
-- Integrates with Google Gemini 2.5 Flash API for real-time AI-powered styling advice
-- Features a modern Gradio UI with light/dark mode toggle and responsive design
-- Implements production-ready error handling, input validation, and environment-based secrets management
-- Deployed with full deployment guides for Hugging Face Spaces, Docker, and cloud platforms
-
----
-
 ## 🙋 Support & Questions
 
 - 📖 **Gradio Docs**: https://gradio.app/docs
